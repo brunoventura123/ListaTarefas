@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ListaTarefas/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ListaTarefas/static/js/main.9d36f5b2.chunk.js",
+    "main.js.map": "/ListaTarefas/static/js/main.9d36f5b2.chunk.js.map",
+    "runtime-main.js": "/ListaTarefas/static/js/runtime-main.6a09cce6.js",
+    "runtime-main.js.map": "/ListaTarefas/static/js/runtime-main.6a09cce6.js.map",
+    "static/js/2.3addac78.chunk.js": "/ListaTarefas/static/js/2.3addac78.chunk.js",
+    "static/js/2.3addac78.chunk.js.map": "/ListaTarefas/static/js/2.3addac78.chunk.js.map",
+    "static/js/3.d5f1d309.chunk.js": "/ListaTarefas/static/js/3.d5f1d309.chunk.js",
+    "static/js/3.d5f1d309.chunk.js.map": "/ListaTarefas/static/js/3.d5f1d309.chunk.js.map",
+    "index.html": "/ListaTarefas/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ListaTarefas/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3addac78.chunk.js.LICENSE.txt": "/ListaTarefas/static/js/2.3addac78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a09cce6.js",
+    "static/js/2.3addac78.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9d36f5b2.chunk.js"
+  ]
+}
