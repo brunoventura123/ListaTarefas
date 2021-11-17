@@ -32,7 +32,7 @@ const App = ()=>{
     <C.Container>
       <C.Area>
         <C.Header>
-          Lista de Tarefas
+          Lista de Tarefas!
         </C.Header>
 
           <AddArea onEnter={handleAddTask}/>
